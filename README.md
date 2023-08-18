@@ -5,7 +5,7 @@ This repo contains the code and data of our IJCAI'2023 paper Incomplete Multi-vi
 
 > [Incomplete Multi-view Clustering via Prototype-based Imputation](http://pengxi.me/wp-content/uploads/2023/07/Incomplete-Multi-view-Clustering-via-Prototype-based-Imputation.pdf)
 
-![framework](./figs/framework.png)
+<img src="https://github.com/XLearning-SCU/2023-IJCAI-ProImp/blob/main/figs/framework.png"  width="897" height="317" />
 
 ## Requirements
 
