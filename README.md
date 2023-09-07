@@ -54,7 +54,7 @@ view_concat {'kmeans': {'AMI': 0.4169, 'NMI': 0.4217, 'ARI': 0.2382, 'accuracy':
 If you find our work useful in your research, please consider citing:
 
 ```latex
-@article{li2023incomplete,
+@inproceedings{li2023incomplete,
   title={Incomplete Multi-view Clustering via Prototype-based Imputation},
   author={Li, Haobin and Li, Yunfan and Yang, Mouxing and Hu, Peng and Peng, Dezhong and Peng, Xi},
   booktitle={Proceedings of the 32th International Joint Conference on Artificial Intelligence},
