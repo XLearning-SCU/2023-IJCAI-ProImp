@@ -2,12 +2,14 @@
 
 ## What's New 🚀 (2025.12)
 
-- We extend the journal version of ProImp by providing formal definitions of community characteristics and exploring broader scenarios in multi-view representation learning with incomplete information. 👉 [[GitHub]](https://github.com/XLearning-SCU/2025-TPAMI-CAMERA)
+- We extend the journal version of ProImp by providing formal definitions of community characteristics and exploring broader scenarios in multi-view representation learning with incomplete information. 👉 [[GitHub]](https://github.com/XLearning-SCU/2025-TPAMI-CAMERA) 
 
 
 This repo contains the code and data of our IJCAI'2023 paper Incomplete Multi-view Clustering via Prototype-based Imputation and that of our IEEE TPAMI'2025 paper Community-aware Multi-view Representation Learning with Incomplete Information.
 
-> [Incomplete Multi-view Clustering via Prototype-based Imputation](http://pengxi.me/wp-content/uploads/2023/07/Incomplete-Multi-view-Clustering-via-Prototype-based-Imputation.pdf)
+> Haobin Li, Yunfan Li, Mouxing Yang, Peng Hu, Dezhong Peng and Xi Peng, Incomplete Multi-view Clustering via Prototype-based Imputation. 👉 [[paper]](https://www.ijcai.org/proceedings/2023/0435.pdf) 
+
+> Haobin Li, Yijie Lin, Peng Hu, Mouxing Yang, Xi Peng, Community-aware Multi-view Representation Learning with Incomplete Information. 👉 [[paper]](https://pengxi.me/wp-content/uploads/2025/11/Community-aware-Multi-view-Representation-Learning-with-Incomplete-Information.pdf) 
 
 <img src="https://github.com/XLearning-SCU/2023-IJCAI-ProImp/blob/main/figs/framework.png"  width="897" height="317" />
 
